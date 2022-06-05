@@ -1,1 +1,1 @@
-# binary-encoded-storage-system
+# Binary Encoded Storage System
